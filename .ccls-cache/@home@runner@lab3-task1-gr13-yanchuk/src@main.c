@@ -1,8 +1,11 @@
-/* hello.c */
+//
+// Created by Branislau Yanchuk 14.03.2023
+
+//Client file
+
 #include <stdio.h>
 
-void main (void)
+int main (void)
 {
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
+	return 0;
 }
