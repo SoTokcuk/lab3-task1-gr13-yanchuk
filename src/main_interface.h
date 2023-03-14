@@ -6,4 +6,12 @@
 // and calls the is_prime function for each number. 
 // If the number is prime, it is displayed with the printf function.
 
+#ifndef H_INTER
+#define H_INTER
+
+#include "stddef.h"
+#include <stdio.h>
+
+
 void find_primes();
+#endif
